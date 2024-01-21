@@ -10,7 +10,7 @@
 
 - 💬 Feel free to engage me in conversations about Front-end, web development and design; I am always eager to share insights and experiences.
 
-- 📫 You can reach out to me via email at savaspamuk@gmail.com or connect with me on LinkedIn: LinkedIn Profile
+- 📫 You can reach out to me via email at savaspamuk@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/savas-pamuk-0140582b/)
 
 - ⚡ Fun fact: Beyond coding, I have an avid interest in exploring and immersing myself in diverse experiences – a passion that fuels my design inspiration!
 
