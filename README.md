@@ -4,7 +4,7 @@
 
 - 🔭 Currently, I am immersed in the development of a Car Sales Webpage, applying and honing my frontend development skills.
 
-- 🌱 My ongoing learning journey involves diving into TypeScript to expand and enhance my skill set.
+- 🌱 My tech skills involves familiarity with HTML, CSS, JavaScript, React, Jira, Figma, Git, GitHub, VSCode, Material UI, Reactstrap, Fetch API, Context API, React-Router-Dom and my learning journey involves diving into TypeScript to expand and enhance my skill set.
 
 - 👯 I am enthusiastic about collaborating on projects and open to exploring opportunities for joint ventures.
 
@@ -15,3 +15,5 @@
 - ⚡ Fun fact: Beyond coding, I have an avid interest in exploring and immersing myself in diverse experiences – a passion that fuels my design inspiration!
 
 Looking forward to connecting with fellow developers, innovators, and anyone passionate about the ever-evolving world of web development! 🚀
+
+
